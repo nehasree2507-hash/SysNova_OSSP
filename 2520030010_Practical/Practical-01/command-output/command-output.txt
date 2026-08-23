@@ -1,1 +1,11 @@
-
+Enter command: ls
+parent process
+parent process id is 442
+my parent process id is 309
+Child Process
+Child process id is 443
+parent process id is 442
+a.out  a4   b1    dir3  ex1        f1    f3  f7       linux_task1  mvex.c   permission_lab  pipeex1.c     xyz
+a1     a6   b2    dir5  exece1.c   f1.c  f4  f8       linux_task2  open1.c  pipe.c          pipeex2.c     z7
+a2     a7   dir1  dir6  execlp1.c  f10   f5  f9       linux_task3  open3.c  pipe1.c         pipesquare.c  z8
+a3     abc  dir2  dirz  execv1.c   f2    f6  fork4.c  linux_task4  open4.c  pipe2.c         readwrite.c
