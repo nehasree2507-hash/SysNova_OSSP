@@ -1,0 +1,10 @@
+skill2-shell> hii
+hii
+Command entered: hii
+skill2-shell> hello
+hello
+Command entered: hello
+skill2-shell> suppp
+suppp
+Command entered: suppp
+skill2-shell> ^C
