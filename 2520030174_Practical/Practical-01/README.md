@@ -1,40 +1,48 @@
-# Report on Linux Hardware Resources and Operating System Services
+# Linux System Resources and OS Services
 
-This report explains how the Linux operating system manages and abstracts hardware resources such as the CPU, memory, storage, and I/O devices using basic Linux commands.
+Linux handles the computer's hardware resources and provides services that allow users and programs to work with them easily. The following commands help us view information about the system.
 
-## Commands Used
+**uname -a**
 
-### `uname -a`
-- Displays information about the Linux operating system and kernel.
-- It also shows details about the system architecture.
+- Prints details about the operating system and Linux kernel.
+- Includes information about the machine architecture.
 
-### `lscpu`
-- Displays CPU-related information, including the processor model, number of cores, and threads.
-- It helps us understand the system’s processor configuration.
+**lscpu**
 
-### `lsblk`
-- Lists all storage devices and their partitions.
-- It also shows where disks and partitions are mounted.
+- Provides information about the processor.
+- Shows details such as CPU model, cores, threads, and architecture.
 
-### `ps`
-- Displays the processes that are currently running in the system.
-- It also shows the Process ID (PID) of each process.
+**lsblk**
 
-### `top`
-- Shows CPU and memory usage in real time.
-- It helps identify which processes are using the most system resources.
+- Displays available block devices, including disks and partitions.
+- Helps identify storage devices and their mount points.
 
-## CPU
-The operating system manages the CPU by allocating CPU time to different processes. This allows multiple programs to run smoothly at the same time.
+**ps**
 
-## Memory
-The operating system provides memory to programs when they are running and releases it once they finish. It also protects the memory of one program from being accessed by another.
+- Lists processes that are active at the time the command is run.
+- Displays the process ID assigned to each process.
 
-## Storage
-The operating system manages storage through files and folders. Users can access their data without needing to know where it is physically stored on the disk.
+**top**
 
-## I/O Devices
-The operating system communicates with devices such as the keyboard, mouse, monitor, and printer through device drivers. This makes these devices easier for users and programs to use.
+- Monitors running processes dynamically.
+- Shows current CPU and memory usage across the system.
 
-## Conclusion
-From these commands, I understood that the operating system acts as a bridge between the user and the hardware. It manages the CPU, memory, storage, and I/O devices to ensure that programs run efficiently.
+### Processor Management
+
+Linux shares processor time among running processes through scheduling. This ensures that multiple applications can receive CPU time and continue running without one program taking complete control of the processor.
+
+### Memory Management
+
+The operating system assigns RAM to applications as they execute. It keeps each process in its own protected memory area, which improves system stability and prevents unwanted access between programs.
+
+### Disk Management
+
+Linux organizes disk data through a file system. Files and directories provide a simple way to store and access information, while the operating system handles the underlying physical storage details.
+
+### Device Management
+
+Hardware such as keyboards, displays, printers, and mice is controlled through device drivers. These drivers allow the operating system and applications to communicate with hardware in a standard way.
+
+### Conclusion
+
+The Linux operating system works as an interface between software and computer hardware. It manages processing, memory, storage, and connected devices so that applications can run properly and users can access system resources easily.
