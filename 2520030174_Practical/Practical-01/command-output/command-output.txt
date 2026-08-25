@@ -1,1 +1,13 @@
-
+Enter command: ls
+parent process
+Child Process
+parent process id is 610
+my parent process id is 332
+Child process id is 611
+parent process id is 610
+a.out  a6   c1.c  ew.c           f1  f8            linux_task1    open1.c         pipeex2.c       q2.c
+a1     a7   dir1  ex1            f2  f9            linux_task2    open1.c.save    pipeex2.c.save  rw.c
+a2     abc  dir3  execl.c        f3  file.txt      linux_task3    permission_lab  pipetest.c      student_portal
+a3     b1   dir5  execlp.c       f5  files.c       linux_task4    pipeex1         practi1.c       xyz
+a4     b2   dir6  execlp.c.save  f6  fork1.c       mvex.c         pipeex1.c       practi1.c.save  z7
+a5     c1   dirz  execv.c        f7  fork1.c.save  nano.619.save  pipeex2         q1.c            z8
