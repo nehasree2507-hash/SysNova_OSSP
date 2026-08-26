@@ -1,1 +1,15 @@
-
+Parent Process
+Parent PID: 1061
+Child PID: 1062
+Child Process
+Child PID: 1062
+Parent PID: 1061
+Executing ls command ...
+README.txt  config.txt  ex1      f4            fork4.c      main.c          open4.c         pipeex2.c   src
+a.out       data.txt    exec1.c  f5            g1           mvex.c          permission_lab  pipeex3.c   student.c
+abc         dir3        exec2.c  f7            g2           notes.txt       pipe10.c        practi1.c   student_portal
+b1          dir5        exec3.c  f8            linux_task1  open1.c         pipe2.c         rwr.c       system.log
+b2          dir6        f12      f9            linux_task2  open1.c.save    pipe3.c         s2          test.txt
+backup      dirz        f12.c    file1.c       linux_task4  open1.c.save.1  pipeex1         skill1.c    xyz
+config      docs        f3       file1.c.save  logs         open3.c         pipeex1.c       source.txt  z1
+Child process completed
