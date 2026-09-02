@@ -1,0 +1,13 @@
+Before fork
+PID: 853
+PPID: 323
+
+Parent Process
+PID: 853
+PPID: 323
+State: Running
+
+Child Process
+PID: 854
+PPID: 322
+State: Running
