@@ -1,4 +1,4 @@
-# Interactive Skill 1
+# Interactive Shell - Skill 1
 
 ## Objective
 
