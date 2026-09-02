@@ -1,0 +1,7 @@
+skill2-shell> yippe
+yippeCommand entered: yippe
+skill2-shell> maggieee
+maggieeeCommand entered: maggieee
+skill2-shell> noodless
+noodlessCommand entered: noodless
+skill2-shell> ^C
