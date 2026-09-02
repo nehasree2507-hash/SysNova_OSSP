@@ -43,6 +43,7 @@ skill2-shell> noodless
 noodlessCommand entered: noodless
 skill2-shell> ^C
 nehasree_padamati@LAPTOP-D4OP72LB:~$
+```
 
 ## Conclusion
 
