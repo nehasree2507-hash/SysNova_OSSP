@@ -28,11 +28,12 @@
 7. Otherwise → display the command and continue looping.
 
 ## Sample Output
+```text
 skill2-shell> Hieee
 HieeeCommand entered: Hieee
 skill2-shell> ^C
 hasini@LAPTOP-IMD4AV90:~$
-
+```
 
 ## Conclusion
 This program demonstrates a basic interactive shell using Linux system calls.  
