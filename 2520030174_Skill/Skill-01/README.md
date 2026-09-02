@@ -1,4 +1,4 @@
-# Practical 1
+# Interactive Skill 1
 
 ## Objective
 
