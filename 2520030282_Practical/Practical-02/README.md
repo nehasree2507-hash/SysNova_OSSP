@@ -6,7 +6,7 @@
 strace cat sample.txt
 ```
 
-### What is `strace`?
+### What is strace?
 
 `strace` is a Linux utility that tracks the system calls made by a program while it is executing. It helps us understand how a program interacts with the operating system and uses different kernel services.
 
