@@ -14,3 +14,38 @@ Consumed 50
 Communication time is 0.000274
 Communication Efficiency = 18248.175182
   2nd output
+-rwxrw-r-x 1 boomika boomika     0 Jul 29 08:24 abc
+-rw-r--r-- 1 boomika boomika    66 Aug 12 06:45 exece1.c
+-rw-r--r-- 1 boomika boomika    59 Aug 12 06:50 execlp1.c
+-rw-r--r-- 1 boomika boomika   133 Aug 12 07:05 execv1.c
+-rw-r--r-- 1 boomika boomika   134 Aug  6 03:57 f1.c
+-rw-r--r-- 1 boomika boomika   517 Aug 23 13:31 fork4.c
+-rw-r--r-- 1 boomika boomika   248 Aug 23 14:49 mvex.c
+-rw-r--r-- 1 boomika boomika   542 Sep  9 06:03 namedpipe1.c
+-rw-r--r-- 1 boomika boomika   300 Aug 27 03:18 namedpipe2.c
+-rw-r--r-- 1 boomika boomika   253 Jul 30 04:19 open1.c
+-rw-r--r-- 1 boomika boomika   276 Aug  1 05:39 open3.c
+-rw-r--r-- 1 boomika boomika   228 Aug  1 05:47 open4.c
+-rw-r--r-- 1 boomika boomika     0 Aug 13 02:37 pipe.c
+-rw-r--r-- 1 boomika boomika   240 Aug 12 08:18 pipe1.c
+-rw-r--r-- 1 boomika boomika   270 Aug 13 02:48 pipe2.c
+-rw-r--r-- 1 boomika boomika   197 Aug 13 02:37 pipeex1.c
+-rw-r--r-- 1 boomika boomika   269 Aug 12 05:37 pipeex2.c
+-rw-r--r-- 1 boomika boomika   252 Aug 12 06:35 pipesquare.c
+-rw-r--r-- 1 boomika boomika   393 Aug 23 15:21 prac2.c
+-rw-r--r-- 1 boomika boomika   462 Aug 23 15:45 prac3.c
+-rw-r--r-- 1 boomika boomika   395 Sep  9 08:04 prac5.c
+-rw-r--r-- 1 boomika boomika   238 Sep 10 05:48 prac5b.c
+-rw-r--r-- 1 boomika boomika  1708 Sep 10 05:43 prac5main.c
+-rw-r--r-- 1 boomika boomika   101 Aug  1 05:17 readwrite.c
+-rw-r--r-- 1 boomika boomika   489 Aug 27 04:19 receiver.c
+-rw-r--r-- 1 boomika boomika   619 Aug 27 04:13 sender.c
+-rw-r--r-- 1 boomika boomika   272 Sep  2 08:28 shm1.c
+-rw-r--r-- 1 boomika boomika   256 Sep  2 08:31 shmc1.c
+-rw-r--r-- 1 boomika boomika   239 Sep  2 05:31 sigint.c
+-rw-r--r-- 1 boomika boomika   124 Sep  2 05:38 sigint1.c
+-rw-r--r-- 1 boomika boomika   718 Sep  2 05:58 signal.c
+-rw-r--r-- 1 boomika boomika   501 Aug 24 13:47 skill1.c
+-rw-r--r-- 1 boomika boomika   715 Aug 24 14:49 skill2.c
+-rw-r--r-- 1 boomika boomika   777 Sep  9 05:35 waitprac4.c
+-rw-r--r-- 1 boomika boomika   321 Sep  9 05:55 zombie.c
