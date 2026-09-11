@@ -10,5 +10,6 @@ POSIX Signal Handling:
 3.SIGTERM is used to request a process to stop.  
 4.SIGUSR1 is a signal defined by the user.  
 5.A signal handler is simply a function that runs when the signal is received.  
-6.Signals help the process deal with events asynchronously, without breaking the normal flow.  
+6.Signals help the process deal with events asynchronously, without breaking the normal flow..
 
+    
