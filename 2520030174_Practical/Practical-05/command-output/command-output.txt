@@ -1,0 +1,61 @@
+// 1st OUTPUT
+Producer :-
+Produced 10
+Produced 20
+Produced 30
+Produced 40
+Produced 50
+Consumer :-
+Consumer 10
+Consumer 20
+Consumer 30
+Consumer 40
+Consumer 50
+Communication time is 0.000554
+Communication Efficiency is 9025.270758
+
+  //2nd OUTPUT
+  -rwxrw-r-- 1 nehasree_padamati nehasree_padamati     0 Jul 29 08:26 abc
+-rwxr-xr-x 1 nehasree_padamati nehasree_padamati 15992 Jul 29 06:49 c1
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   107 Aug 21 10:13 c1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   307 Aug  6 04:00 ew.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati    64 Aug 12 07:51 execl.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati    62 Aug 12 07:52 execlp.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati    63 Aug 12 07:12 execlp.c.save
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   130 Aug 12 07:08 execv.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   303 Aug 27 03:21 fifo1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   271 Aug  6 03:57 files.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   399 Aug 21 10:58 fork1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati     2 Aug 21 10:34 fork1.c.save
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   248 Sep 11 13:41 mvex.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   803 Aug 26 08:44 namedpipe1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   266 Aug  6 03:58 open1.c
+-rw------- 1 nehasree_padamati nehasree_padamati   207 Aug  6 03:58 open1.c.save
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   216 Aug 12 05:27 pipeex1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   273 Aug 12 05:49 pipeex2.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   273 Aug 12 07:12 pipeex2.c.save
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   121 Aug 12 06:35 pipetest.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   778 Sep 11 13:38 practi04.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   248 Sep 11 14:54 practi05b.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   518 Aug 25 14:26 practi1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   519 Aug 21 11:33 practi1.c.save
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   383 Sep  2 04:13 practi2.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   462 Sep  2 04:26 practi3.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   383 Sep  9 08:04 practi5.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati     0 Sep  9 08:04 prodcons,c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   709 Sep  9 08:38 prodcons.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   222 Aug 21 10:23 q1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   224 Aug 12 08:40 q2.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   530 Aug 27 04:42 receiver.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati    83 Aug 21 10:14 rw.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   611 Aug 27 04:42 sender.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   300 Sep  2 08:25 shm1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   249 Sep  2 08:37 shm2.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   253 Sep  2 05:34 signal.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   133 Sep  2 05:37 signal2.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   761 Sep  2 06:00 signal3.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   501 Aug 25 14:47 skill1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   625 Sep  2 04:36 skill2.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   622 Sep 11 14:15 waitex1.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   291 Sep 11 14:16 zombie.c
+-rw-r--r-- 1 nehasree_padamati nehasree_padamati   326 Sep 11 14:51 zombie1.c
