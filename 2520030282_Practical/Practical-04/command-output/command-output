@@ -1,1 +1,11 @@
-
+1st output
+Child 1 pid=553
+Child 2 pid=554
+Child 3 pid=555
+parent: one child is completed with wait()
+parent: child 3 has completed with waitpid()
+parent: all are completed
+2nd output
+Parent process 621
+Child process 622
+Parent process completed
