@@ -14,3 +14,4 @@ The child then stays in the process table as a zombie.
 Removing a Zombie:
 The parent can clear the zombie by calling wait() or waitpid().  
 This collects the exit status and removes the zombie entry.
+   
