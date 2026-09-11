@@ -1,22 +1,21 @@
-#include<stdio.h>
-#include<unistd.h>
-#include<sys/wait.h>//used for wait() and waitpid() system calls
-#include<stdlib.h>//used for exit() systemcall
-
+#include <unistd.h>
+#include <stdio.h>
+#include <sys/wait.h>
+#include <stdlib.h>
 int main(){
-int pid[3];//initializing 3 childs
-for(int i=0;i<3;i++){//loops which runs for 3 childs
-pid[i]=fork();//creating 3 childs
-if(pid[i]==0){//indicates a child process
+int pid[3];
+for(int i=0;i<3;i++){
+pid[i]=fork();
+if(pid[i]==0){
 printf("Child %d pid=%d\n",i+1,getpid());
-sleep(i+1);//giving a pause after every child
-exit(0);//exiting the std input
+sleep(i+1);
+exit(0);
 }
 }
-wait(NULL);//waiting for anyone child
-printf("parent: one child is completed with wait()\n");
-waitpid(pid[2],NULL,0);//waiting for specific pid
-printf("parent: child 3 has completed with waitpid()\n");
-wait(NULL);//waiting for last child to be completed
-printf("parent: all are completed\n");//parent is chking the last child
+wait(NULL);//waiting for any one child
+printf("Parent: One child has been completed with wait()\n");
+waitpid(pid[2],NULL,0);//waiting using a specific pid
+printf("Parent: Child 3 has completed with waitpid()\n");//parent is checking the second child
+wait(NULL);//waiting for the last child to be completed
+printf("Parent: All the childs has been completed\n");//parent is checking the last child
 }
