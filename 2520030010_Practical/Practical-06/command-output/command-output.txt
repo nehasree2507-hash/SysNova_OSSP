@@ -1,0 +1,8 @@
+1st code
+client6.c
+Enter message: hiiieee
+Server says: Message received by server
+server6.c
+Server waiting for client...
+Client says: hiiieee
+2nd code
