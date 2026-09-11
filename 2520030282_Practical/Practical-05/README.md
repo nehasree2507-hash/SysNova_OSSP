@@ -1,9 +1,9 @@
-## Producer-Consumer with Anonymous Pipe
+Producer-Consumer with Anonymous Pipe:
 - The parent process acts as the producer. It writes data into the pipe.  
 - The child process acts as the consumer. It reads the data from the pipe.  
 - The pipe is the medium for communication between parent and child.  
 
-## Example: ls -l | grep ".c"
+Example: ls -l | grep ".c"
 - The program works like the shell command `ls -l | grep ".c"`.  
 - Steps involved:
   - fork() → creates the child process.  
