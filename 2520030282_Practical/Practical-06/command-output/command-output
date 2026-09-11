@@ -1,1 +1,16 @@
-
+1st code
+client6.c
+Enter message: hiiieee
+Server says: Message received by server
+server6.c
+Server waiting for client...
+Client says: hiiieee
+2nd code
+Process ID: 447
+Waiting for signals...
+^C
+SIGINT received
+SIGUSR1 received
+SIGTERM received
+kill -TERM 447
+kill -USR1 447
