@@ -4,7 +4,7 @@ Producer-Consumer with Anonymous Pipe:
 3.The pipe is the medium for communication between parent and child.  
 
 Example: ls -l | grep ".c"
-1.The program works like the shell command `ls -l | grep ".c"`.  
+1.The program works like the shell command ls -l | grep ".c".  
 Steps involved:
 1.fork() → creates the child process.  
 2.pipe() → sets up communication channel.  
