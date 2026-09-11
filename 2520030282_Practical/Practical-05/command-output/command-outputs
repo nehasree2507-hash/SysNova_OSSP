@@ -1,1 +1,74 @@
-
+1st output
+Producer
+Consumer
+Consumed 10
+Produced 10
+Produced 20
+Consumed 20
+Produced 30
+Consumed 30
+Produced 40
+Consumed 40
+Produced 50
+Consumed 50
+Communication time is 0.000481
+Communication Efficiency = 10395.010395
+2nd output
+-rwxrwxrwx 1 hasini hasini     0 Jul 29 08:23 abc
+drwxr-xr-x 2 hasini hasini  4096 Jul 29 15:35 backup
+-rw-r--r-- 1 hasini hasini   796 Aug 27 03:06 class1.c
+-rw------- 1 hasini hasini   709 Aug 27 03:03 class1.c.save
+drwxr-xr-x 2 hasini hasini  4096 Jul 29 15:35 config
+-rw-r--r-- 1 hasini hasini     0 Jul 29 15:38 config.txt
+drwxr-xr-x 2 hasini hasini  4096 Jul 29 15:35 docs
+-rw-r--r-- 1 hasini hasini    65 Aug 12 07:53 exec1.c
+-rw-r--r-- 1 hasini hasini    60 Aug 12 07:11 exec2.c
+-rw-r--r-- 1 hasini hasini   121 Aug 12 07:05 exec3.c
+-rw-r--r-- 1 hasini hasini   134 Jul 29 07:08 f12.c
+-rw-r--r-- 1 hasini hasini   518 Aug 26 16:07 file1.c
+-rw------- 1 hasini hasini   518 Aug 26 16:06 file1.c.save
+-rw-r--r-- 1 hasini hasini   389 Aug  6 03:51 fork4.c
+-rw-r--r-- 1 hasini hasini     1 Aug  6 04:02 main.c
+-rw-r--r-- 1 hasini hasini   256 Aug 12 14:07 mvex.c
+-rw-r--r-- 1 hasini hasini   803 Aug 27 03:14 namedpipe1.c
+-rw-r--r-- 1 hasini hasini   853 Aug 27 03:22 namedpipe2.c
+-rw-r--r-- 1 hasini hasini   244 Jul 30 04:19 open1.c
+-rw-r--r-- 1 hasini hasini   175 Jul 30 03:48 open1.c.save
+-rw-r--r-- 1 hasini hasini   175 Jul 30 03:48 open1.c.save.1
+-rw-r--r-- 1 hasini hasini     0 Aug  1 05:31 open3.c
+-rw-r--r-- 1 hasini hasini   289 Aug  1 06:01 open4.c
+-rw-r--r-- 1 hasini hasini   239 Aug 12 08:16 pipe10.c
+-rw-r--r-- 1 hasini hasini   246 Aug 27 02:57 pipe2.c
+-rw-r--r-- 1 hasini hasini   238 Aug 12 08:36 pipe3.c
+-rw-r--r-- 1 hasini hasini   177 Aug 12 05:26 pipeex1.c
+-rw-r--r-- 1 hasini hasini   282 Aug 12 05:54 pipeex2.c
+-rw-r--r-- 1 hasini hasini   288 Aug 12 06:41 pipeex3.c
+-rw-r--r-- 1 hasini hasini   275 Sep 11 13:51 prac4.1.c
+-rw-r--r-- 1 hasini hasini   777 Sep 11 13:49 prac4.c
+-rw-r--r-- 1 hasini hasini  1708 Sep 11 14:09 prac5.c
+-rw-r--r-- 1 hasini hasini   517 Aug 26 16:00 practi1.c
+-rw-r--r-- 1 hasini hasini   401 Sep  2 05:23 practical2.c
+-rw-r--r-- 1 hasini hasini   462 Sep  2 06:11 practical3.c
+-rw-r--r-- 1 hasini hasini   777 Sep 11 13:48 practical4.v
+-rw-r--r-- 1 hasini hasini   238 Sep 11 14:11 practical5.c
+-rw-r--r-- 1 hasini hasini   425 Sep  9 06:59 practical6.1.c
+-rw-r--r-- 1 hasini hasini   273 Sep  9 06:37 practical6.c
+-rw-r--r-- 1 hasini hasini   647 Sep  9 08:26 prodcons.c
+-rw-r--r-- 1 hasini hasini   528 Aug 27 04:19 reciever.c
+-rw-r--r-- 1 hasini hasini    82 Aug  1 05:17 rwr.c
+-rw-r--r-- 1 hasini hasini   471 Aug 27 04:12 sender.c
+-rw-r--r-- 1 hasini hasini   271 Sep  2 08:25 shm.c
+-rw-r--r-- 1 hasini hasini   263 Sep  2 08:37 shm1.c
+-rw-r--r-- 1 hasini hasini   209 Sep  2 05:27 sigint.c
+-rw-r--r-- 1 hasini hasini   239 Sep  2 05:34 signal.c
+-rw-r--r-- 1 hasini hasini   109 Sep  2 05:37 signal2.c
+-rw-r--r-- 1 hasini hasini   740 Sep  2 05:58 signal3.c
+-rw-r--r-- 1 hasini hasini   502 Aug 26 16:59 skill1.c
+-rw-r--r-- 1 hasini hasini   625 Sep  2 06:31 skill2.c
+-rw-r--r-- 1 hasini hasini     0 Jul 29 05:42 source.txt
+drwxr-xr-x 2 hasini hasini  4096 Jul 29 15:35 src
+-rw-r--r-- 1 hasini hasini     0 Jul 29 15:38 student.c
+-rw-r--r-- 1 hasini hasini   671 Sep 10 02:58 wait.c
+-rw-r--r-- 1 hasini hasini     0 Sep  9 05:20 weight.c
+-rw-r--r-- 1 hasini hasini   323 Sep  9 06:01 zombie.c
+-rw-r--r-- 1 hasini hasini     0 Sep  9 06:00 zombie1.c
