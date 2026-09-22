@@ -1,0 +1,34 @@
+nehasree_padamati@LAPTOP-D4OP72LB:~$ gcc practiserver6.c
+nehasree_padamati@LAPTOP-D4OP72LB:~$ ./a.out
+Server waiting for client...
+^C
+nehasree_padamati@LAPTOP-D4OP72LB:~$ gcc practiclient6.c
+nehasree_padamati@LAPTOP-D4OP72LB:~$ ./a.out
+Enter message: yippeee
+Server says: Message received by server
+^C
+nehasree_padamati@LAPTOP-D4OP72LB:~$ gcc practiserver6.c
+nehasree_padamati@LAPTOP-D4OP72LB:~$ ./a.out
+Server waiting for client...
+Client says: yippeee
+nehasree_padamati@LAPTOP-D4OP72LB:~$ gcc practisignal6.c
+nehasree_padamati@LAPTOP-D4OP72LB:~$ ./a.out
+Process ID: 3370
+Waiting for signals...
+^C
+SIGINT received 
+nehasree_padamati@LAPTOP-D4OP72LB:~$ kill -USR1 3370
+SIGUSR1 received
+nehasree_padamati@LAPTOP-D4OP72LB:~$ kill -TERM 3370
+SIGTERM received
+
+(
+nehasree_padamati@LAPTOP-D4OP72LB:~$ gcc practisignal6.c
+nehasree_padamati@LAPTOP-D4OP72LB:~$ ./a.out
+Process ID: 3370
+Waiting for signals...
+^C
+SIGINT received
+SIGUSR1 received
+SIGTERM received
+)
